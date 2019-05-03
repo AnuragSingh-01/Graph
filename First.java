@@ -11,7 +11,7 @@ public class First
        /*
          ArrayList<Integer> l=graph.get(x);
          l.add(y);
-         //and y m bhi
+         //and also in y as well
          l=graph.get(y);
          l.add(x);
        */
