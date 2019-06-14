@@ -1,6 +1,6 @@
 
-/*																     Count Islands
-																      ----------------
+/*	      Count Islands
+	    ----------------
 																	
 A group of connected 1s forms an island now your task is to return the number of islands present.
 
